@@ -16,13 +16,13 @@
     "mongoose": "^8.8.1"
   },
   "devDependencies": {
-    "commitizen": "^4.3.1",
-    "cz-conventional-changelog": "^3.3.0",
-    "nodemon": "^3.1.7",
-    "eslint": "8.50.0",
-    "commitlint": "^17.6.6",
     "@commitlint/cli": "^17.6.6",
-    "@commitlint/config-conventional": "^17.6.3"
+    "@commitlint/config-conventional": "^17.6.3",
+    "commitizen": "^4.3.1",
+    "commitlint": "^17.6.6",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "8.50.0",
+    "nodemon": "^3.1.7"
   },
   "config": {
     "commitizen": {
